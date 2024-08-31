@@ -1,0 +1,14 @@
+{
+  "name": "ds-lib",
+  "version": "1.0.0",
+  "description": "A comprehensive library of fundamental data structures and sorting algorithms for Node.js, including binary search trees, linked lists, and more.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Santosh",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
